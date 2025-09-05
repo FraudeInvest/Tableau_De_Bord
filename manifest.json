@@ -1,0 +1,12 @@
+﻿{
+  "name": "APIS33 - Investigation Dashboard",
+  "short_name": "APIS33",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0c2a5d",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
